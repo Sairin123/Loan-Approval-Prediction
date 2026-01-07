@@ -10,5 +10,6 @@
 
 ## Data Source:
 - Datahack
-
+## Access of the App
+https://loan-approval-predictionz.streamlit.app/
 Note: Do Check out project report pdf to find out how I used this algorithm.
