@@ -2,7 +2,7 @@
 
 ## Model
 - Logistic Regression Model 
-    - Accuracy : 71.544%
+    - Accuracy : 85%
     
 ## Technologies:
 - Programming Language: Python
